@@ -38,7 +38,7 @@ export default function Contact() {
                   />
                 </svg>
                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                  Acme Inc, Street, State, Postal Code
+                  Hyderabad, Gachibowli
                 </div>
               </div>
 
@@ -82,7 +82,7 @@ export default function Contact() {
                   />
                 </svg>
                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                  info@acme.org
+                  hr@abhyaz.com
                 </div>
               </div>
             </div>
