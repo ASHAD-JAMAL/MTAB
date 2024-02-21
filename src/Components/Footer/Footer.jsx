@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import logo from "./src/assets/logo.png";
+import logo from "../../assets/logo.png";
 export default function Footer() {
   return (
     <footer className="bg-white border-y">
